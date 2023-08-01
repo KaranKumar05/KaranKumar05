@@ -1,4 +1,3 @@
-<img alt="Coding" style="border-radius:16px;" src="./codingImgs/background.png"></img>
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h2 align="center"><a href="./index.html"></a></h2>
 <p>
