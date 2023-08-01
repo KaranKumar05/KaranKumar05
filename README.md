@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
-<img src="./animation.svg" alt="">
+<img src="./animation.svg" alt="animation">
 
 <p>
     I am a passionate front-end developer. With a keen eye for design and
