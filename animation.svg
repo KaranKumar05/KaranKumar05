@@ -1,0 +1,18 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 200">
+  <style type="text/css">
+    .st0 { fill: #000000; font-family: Arial; font-weight: bold; font-size: 24px; }
+  </style>
+  <text x="50" y="100" class="st0">I am <tspan class="multi-headline"></tspan></text>
+  <script xlink:href="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+  <script type="text/ecmascript">
+    <![CDATA[
+      let typed = new Typed(".multi-headline", {
+        strings: ["Frontend Developer", "Gamer", "Graphic Designer", "Freelancer", "B-Logger"],
+        typeSpeed: 80,
+        backSpeed: 80,
+        backdelay: 1000,
+        loop: true,
+      });
+    ]]>
+  </script>
+</svg>
