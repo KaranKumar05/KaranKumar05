@@ -1,6 +1,6 @@
 <img alt="Coding" style="border-radius:16px;" src="./codingImgs/background.png"></img>
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
-<h2 align="center">A passionate developer</h2>
+<h2 align="center"><a href="./index.html"></a></h2>
 <p>
     I am a passionate front-end developer. With a keen eye for design and
     a love for coding, I strive to create visually appealing and
