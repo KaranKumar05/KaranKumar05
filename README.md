@@ -1,4 +1,4 @@
-
+<img alt="Coding" style="border-radius:16px;" src="./codingImgs/background.png"></img>
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h2 align="center">A passionate developer</h2>
 <p>
