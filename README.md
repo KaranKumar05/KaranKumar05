@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
-<<<<<<< HEAD
-=======
-<h2>Passinate Developer</h2>
->>>>>>> ec44e38f21885ade99b25dd31b35f7fa5ca21993
+<h1 align="center">Hi 👋, I'm <strong>Karan Kumar</strong></h1>
+
+<h2>Passionate Developer</h2>
 
 <p>
-    I am a passionate front-end developer. With a keen eye for design and
+    I am a passionate MERN Stack Developer. With a keen eye for design and
     a love for coding, I strive to create visually appealing and
     user-friendly websites. I have always been fascinated by the
     intersection of technology and creativity, which led me to pursue a
@@ -23,15 +21,14 @@
   </p>
 <img align="right" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-
 <br><br>
+
 - 💬 Ask me about **Cricket :)**
 
 - 📫 How to reach me **kkvmalhi@gmail.com**
 
 - ⚡ Fun fact **I think I know Everything :)**
-<br><br>
-
+  <br><br>
 
 <h1 align="left">Languages and Tools:</h1>
 <h1 align="center"> 
@@ -61,7 +58,4 @@ src="./images/stackoverflow-color-svgrepo-com.svg" alt="ds_alpha07" height="40" 
 <p>Mail: <a href="mailto:kkvmalhi@gmail.com">kkvmalhi@gmail.com</a></p>
 </p>
 <br>
-<br>
-<br>
-<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=karankumar05&label=Profile%20views&color=0e75b6&style=flat" alt="karankumar05" /> </h1>
-<br>
+<h1 align="center"> <img src="https://komarev.com/ghpvc/?username=karankumar05&label=Profile%20views&color=0e75b6&style=flat" alt="karankumar05" /> </h1>
