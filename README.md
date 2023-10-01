@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
-<<<<<<< HEAD
-=======
-<h2>Passinate Developer</h2>
->>>>>>> ec44e38f21885ade99b25dd31b35f7fa5ca21993
 
+<h2>Passinate Developer</h2>
 <p>
     I am a passionate front-end developer. With a keen eye for design and
     a love for coding, I strive to create visually appealing and
@@ -30,6 +27,8 @@
 - 📫 How to reach me **kkvmalhi@gmail.com**
 
 - ⚡ Fun fact **I think I know Everything :)**
+<br><br>
+<br><br>
 <br><br>
 
 
