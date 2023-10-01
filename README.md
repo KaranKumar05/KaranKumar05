@@ -1,12 +1,7 @@
-<<<<<<< HEAD
+
 <h1 align="center">Hi 👋, I'm <strong>Karan Kumar</strong></h1>
-
 <h2>Passionate Developer</h2>
-=======
-<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
->>>>>>> da4abba8a789ee79730b2279e2ae1e332874f583
 
-<h2>Passinate Developer</h2>
 <p>
     I am a passionate MERN Stack Developer. With a keen eye for design and
     a love for coding, I strive to create visually appealing and
