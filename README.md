@@ -28,14 +28,10 @@
 - 📫 How to reach me **kkvmalhi@gmail.com**
 
 - ⚡ Fun fact **I think I know Everything :)**
-<<<<<<< HEAD
-  <br><br>
-=======
 <br><br>
 <br><br>
 <br><br>
-
->>>>>>> da4abba8a789ee79730b2279e2ae1e332874f583
+<br><br>
 
 <h1 align="left">Languages and Tools:</h1>
 <h1 align="center"> 
