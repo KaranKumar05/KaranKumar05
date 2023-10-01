@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
+<<<<<<< HEAD
+=======
+<h2>Passinate Developer</h2>
+>>>>>>> ec44e38f21885ade99b25dd31b35f7fa5ca21993
 
 <p>
     I am a passionate front-end developer. With a keen eye for design and
